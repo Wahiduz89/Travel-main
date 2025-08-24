@@ -22,7 +22,7 @@ const News = () => {
         >
           <NewsCard
             image="/images/n2.jpg"
-            title="Top 10 place to visit in Bangladesh"
+            title="Top 10 place to visit in Singapore"
             date="25 November 2024"
           />
         </div>
@@ -33,7 +33,7 @@ const News = () => {
         >
           <NewsCard
             image="/images/n3.jpg"
-            title="Top 10 place to visit in Pakistan"
+            title="Top 10 place to visit in Malaysia"
             date="22 November 2024"
           />
         </div>
